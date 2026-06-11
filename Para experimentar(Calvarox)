@@ -1,1 +1,9 @@
+const cuadrado = document.createElement('div');
 
+cuadrado.style.width = '200px';
+cuadrado.style.height = '200px';
+cuadrado.style.backgroundColor = '#808080'; 
+cuadrado.style.borderRadius = '15px';  
+
+
+document.body.appendChild(cuadrado);
