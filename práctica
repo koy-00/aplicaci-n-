@@ -1,0 +1,12 @@
+práctica:
+console.log("hola")
+let o = prompt("como te llamas?")
+console.log("hola" + o)
+let a = prompt("cuantos años tienes?")
+console.log("tienes" + a + "años")
+if (a >= 18) {
+    console.log("eres mayor de edad")
+}
+else {
+    console.log("eres menor de edad")
+//un poco dificil, pero tampoco tanto jajaja.
