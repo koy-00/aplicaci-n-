@@ -1,1 +1,15 @@
 pruebas 
+se logró hacer el primer "sitio web", aunque esta en blanco, ya es un logro xd:
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>XD</title>
+</head>
+<body>
+    <h1>Se logró xd</h1>
+    <img src="721369393_1638317251411388_6841311942519744285_n.jpg" alt="Imagen">
+<script src="JS.js"></script>
+</body>
+</html>
+//aún no es publica, ya que esta dentro de mis archivos y no tiene dominio.
